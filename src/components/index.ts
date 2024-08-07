@@ -1,9 +1,9 @@
-import Navbar from "./Navbar";
+import Header from "./Header";
 import Hero from "./Hero";
-import Features from "./Features";
+import Feature from "./Feature";
+import Supplements from "./Supplements";
+import Planner from "./Planner";
+import Cta from "./Cta";
+import Contact from "./Contact";
 
-export {
-    Navbar,
-    Hero,
-    Features
-}
+export { Header, Hero, Feature, Supplements, Planner, Cta, Contact };
